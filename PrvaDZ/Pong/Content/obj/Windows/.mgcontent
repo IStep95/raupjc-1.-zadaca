@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/background.png</File>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/ball.png</File>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/paddle.jpg</File>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/music.mp3</File>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/hit.wav</File>
+    <File>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/uefa_theme.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

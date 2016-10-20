@@ -1,0 +1,3 @@
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\PrvaDZ\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\PrvaDZ\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Ivo\Documents\Visual Studio 2015\Projects\PrvaDZ\Zadatak2\obj\Debug\Zadatak2.pdb

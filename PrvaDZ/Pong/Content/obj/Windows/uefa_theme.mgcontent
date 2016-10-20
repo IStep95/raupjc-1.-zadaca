@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/uefa_theme.mp3</SourceFile>
+  <SourceTime>2016-10-20T21:39:09.3346833+02:00</SourceTime>
+  <DestFile>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/bin/Windows/uefa_theme.xnb</DestFile>
+  <DestTime>2016-10-20T21:55:54.6720662+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Ivo/Documents/Visual Studio 2015/Projects/PrvaDZ/Pong/Content/bin/Windows/uefa_theme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
